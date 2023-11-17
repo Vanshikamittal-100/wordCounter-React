@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/wordCounter-React/static/css/main.073c9b0a.css",
+    "main.js": "/wordCounter-React/static/js/main.3bf2bfa8.js",
+    "static/js/787.719ec76d.chunk.js": "/wordCounter-React/static/js/787.719ec76d.chunk.js",
+    "index.html": "/wordCounter-React/index.html",
+    "main.073c9b0a.css.map": "/wordCounter-React/static/css/main.073c9b0a.css.map",
+    "main.3bf2bfa8.js.map": "/wordCounter-React/static/js/main.3bf2bfa8.js.map",
+    "787.719ec76d.chunk.js.map": "/wordCounter-React/static/js/787.719ec76d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.3bf2bfa8.js"
+  ]
+}
